@@ -1,0 +1,25 @@
+label {
+	font-weight: 500;
+}
+
+label.radio {
+	display: block;
+	margin-left: 30px;
+}
+
+label.anrede {
+	display: inline;
+}
+
+.name {
+	margin-right: 20px;
+}
+
+label.name input {
+	width: 100px;
+}
+
+button {
+	display: block;
+}
+
